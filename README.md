@@ -33,7 +33,7 @@ File_name: Lottery.py
 *************************************************************************
 
 ADDITIONAL TASK:
-Folder_name: Gallery
+Folder_name: Gallery_trial
 
 In this folder I have tried the CSS and JavaScript file on my own with some reference. It was a try without calling external js file.
 
